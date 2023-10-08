@@ -22,7 +22,7 @@
 
 ## SRC
 各大SRC厂商的收录准则
-![image](https://github.com/xinghe0/ARL2/assets/65886247/36241aba-bade-45a6-ba9c-8aaac67865d4)
+![image](https://xingheimg.oss-cn-guangzhou.aliyuncs.com/img/202310081834590.png)
 
 
 ## 任务
