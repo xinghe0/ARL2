@@ -20,6 +20,11 @@
 
 ![image-20230830171826597](https://xingheimg.oss-cn-guangzhou.aliyuncs.com/img/202308301718667.png)
 
+## SRC
+各大SRC厂商的收录准则
+![image](https://github.com/xinghe0/ARL2/assets/65886247/36241aba-bade-45a6-ba9c-8aaac67865d4)
+
+
 ## 任务
 
 管理任务，扫描器的入口
